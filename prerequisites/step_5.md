@@ -2,7 +2,7 @@
 
 This document outlines the necessary steps to set up your development environment for Flutter using Visual Studio Code (VS Code).
 
-## 4. Verify Installation
+## 5. Verify Installation
 
 1.  **Create a new Flutter project:**
     - In VS Code, open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).

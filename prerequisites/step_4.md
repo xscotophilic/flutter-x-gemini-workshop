@@ -2,7 +2,7 @@
 
 This document outlines the necessary steps to set up your development environment for Flutter using Visual Studio Code (VS Code).
 
-## 3. Install VS Code Extensions
+## 4. Install VS Code Extensions
 
 1.  **Open VS Code.**
 2.  **Open the Extensions view:**
